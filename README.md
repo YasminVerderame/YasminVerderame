@@ -3,6 +3,7 @@
 
 - :computer: I’m currently working at Mutant BR
 - :seedling: I'm learning TypeScript and Angular
+- :books: I'm studying Software Engineering at FIAP
 #
 
 ### Languages and Tools
