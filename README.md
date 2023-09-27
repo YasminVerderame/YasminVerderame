@@ -2,10 +2,11 @@
 ### Front-end Developer
 
 - :computer: I’m currently working at Mutant BR
-- :seedling: I'm learning TypeScript and Angular
+- :seedling: I'm writing TypeScript and Angular
 - :books: I'm studying Software Engineering at FIAP
 #
-![TOP Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=yasminverderame&layout=compact&theme=dracula)
+![Yasmin GitHub stats](https://github-readme-stats.vercel.app/api?username=yasminverderame&show_icons=true&theme=radical) ![TOP Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=yasminverderame&layout=compact&theme=radical)
+
 
 ### Languages and Tools
 
